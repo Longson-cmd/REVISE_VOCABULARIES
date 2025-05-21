@@ -1,0 +1,23 @@
+{
+    "self_introduce": [
+        "I'm a software developer working on web applications.",
+        "I enjoy reading novels, playing the guitar, and hiking.",
+        "On weekdays, I start my day with a short workout, then work from 9 to 5. In the evenings, I either cook, watch movies, or learn something new online."
+    ],
+    "topics": [
+        "weather",
+        "food and cooking",
+        "daily routines",
+        "work or school",
+        "travel and holidays",
+        "hobbies and interests",
+        "movies and TV shows",
+        "music",
+        "shopping",
+        "sports and fitness",
+        "family and friends",
+        "technology",
+        "health and wellness"
+    ]
+}
+
