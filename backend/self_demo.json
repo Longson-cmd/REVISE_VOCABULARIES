@@ -1,0 +1,74 @@
+{
+    "self_introduce": [
+        "I'm a software developer working on web applications.",
+        "I enjoy reading novels, playing the guitar, and hiking.",
+        "On weekdays, I start my day with a short workout, then work from 9 to 5. In the evenings, I either cook, watch movies, or learn something new online."
+    ],
+
+
+
+    "default_introduction": [
+         {
+    "key": "Job",
+    "introduction_phrace": "I am",
+    "options": ["Software Engineer", "Student", "Accountant", "Teacher", "Doctor", "Salesperson", "Office Staff", "Factory Worker"],
+    "UserChoices": ["Software Engineer", "Student", "Teacher"]
+  },
+  {
+    "key": "Hobby",
+    "introduction_phrace": "I enjoy",
+    "options": ["reading novels", "playing football", "painting landscapes", "listening to music", "cooking for my family"],
+    "UserChoices": ["reading novels", "listening to music"]
+  },
+  {
+    "key": "Personality",
+    "introduction_phrace": "People often describe me as",
+    "options": ["hardworking", "friendly", "curious", "creative", "reliable"],
+    "UserChoices": ["friendly", "creative"]
+  },
+  {
+    "key": "Future goal",
+    "introduction_phrace": "In the future, I want to",
+    "options": ["start my own business", "travel the world", "become a team leader", "study abroad", "work in a global company"],
+    "UserChoices": ["travel the world", "study abroad"]
+  },
+  {
+    "key": "Excellent skills",
+    "introduction_phrace": "I am good at",
+    "options": ["solving problems", "communicating with people", "managing time", "learning new things quickly", "using design tools like Figma"],
+    "UserChoices": ["solving problems", "learning new things quickly"]
+  },
+  {
+    "key": "Education",
+    "introduction_phrace": "I studied at",
+    "options": ["High School", "College", "University", "Master", "PhD"],
+    "UserChoices": ["High School"]
+  }
+    ],
+
+
+
+    "topics" : {
+         "daily_conversation_topics"  : [
+    "weather",
+    "work or school",
+    "family",
+    "hobbies and interests",
+    "food and cooking",
+    "movies or TV shows",
+    "weekend plans",
+    "health and fitness",
+    "travel",
+    "news and current events"
+], 
+  "userChoises" : [
+     "hobbies and interests",
+    "food and cooking",
+    "movies or TV shows",
+    "weekend plans"
+  ]
+    }
+
+
+}
+

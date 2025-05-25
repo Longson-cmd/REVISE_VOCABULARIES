@@ -94,5 +94,11 @@
         "number": 5,
         "audio": "backend/audios/words/eat.mp3",
         "sentences": []
+    },
+    {
+        "key": "picnic",
+        "number": 4,
+        "audio": "backend/audios/words/picnic.mp3",
+        "sentences": []
     }
 ]

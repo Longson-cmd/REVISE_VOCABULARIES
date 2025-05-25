@@ -8,7 +8,7 @@ with open('backend/data.json', 'r', encoding='utf-8') as f:
 os.makedirs('backend/audios/words', exist_ok=True)
 os.makedirs('backend/audios/sentences', exist_ok=True)
 
-data_convert = data[:6]
+data_convert = data
 for entry in data_convert:
     word = entry['key']
     audio_word_path = entry['audio']

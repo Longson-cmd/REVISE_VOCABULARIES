@@ -86,7 +86,7 @@ const fetchWords = async () => {
 
 
   try {
-    const response = await axios.get('http://127.0.0.1:5000/self')
+    const response = await axios.get('http://127.0.0.1:5000/modify_self')
     self.value = response.data
     self_introduction.value = self.value.self_introduce
     // console.log('Topics fetched:', self.value.topics)
